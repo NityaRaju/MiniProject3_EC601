@@ -43,6 +43,8 @@ simple algorithm that stores all available cases and classifies new cases based 
 measure and in this instance, it is the Euclidean distance.
 
 # Results
+<img src = "https://github.com/NityaRaju/MiniProject3_EC601/blob/master/Screen%20Shot%202019-12-06%20at%203.44.01%20PM.png">
 
+# Special project request
 
 <img src = "https://github.com/NityaRaju/MiniProject3_EC601/blob/master/email.jpg">
